@@ -10,4 +10,4 @@ redirect_from:
 
 Publications
 ======
-Please see Google Scholar [https://scholar.google.com/citations?user=s1ziNH8AAAAJ&hl=en] for details.
+Please see my Google Scholar profile [https://scholar.google.com/citations?user=s1ziNH8AAAAJ&hl=en] for details.
