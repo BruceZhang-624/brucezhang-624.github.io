@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Shall be updated soo.
+I am a 2nd-year Ph.D. student in the Department of Biomedical Engineering at Yale University. 
+I am co-advised by Prof. Richard E. Carson at Yale PET Center and Prof. John A. Onofrey at IPAG. 
+My research topics are PET image reconstruction, registration, and data correction.
 
-Getting started
-======
-Placeholder.
-
-
-Getting started 2
-------
-Placeholder 2.
