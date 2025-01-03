@@ -15,4 +15,5 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
-* **[Nov 2024]** Passed my area exam. I am now a Ph.D. candidate.
+* **[Jan. 2025]** Two papers accepted by ISBI 2025.
+* **[Nov. 2024]** Passed my area exam. I am now a Ph.D. candidate.
