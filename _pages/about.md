@@ -15,6 +15,8 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
-* **[Apr. 2025]** Three abstracts accepted by SNMMI Annual Meeting 2025. Two accepted for oral presentation.
-* **[Jan. 2025]** Two papers accepted by ISBI 2025.
+* **[Jul. 2025]** One first-authored abstract and four co-authored abstracts accepted by IEEE Medical Imaging Conference (MIC) 2025.
+* **[Jun. 2025]** Started my summer internship at Siemens Medical Solutions (Malvern, PA) as an Image Analytics Intern.
+* **[Apr. 2025]** One first-authored abstract (oral) and two co-authored abstracts accepted by SNMMI Annual Meeting 2025.
+* **[Jan. 2025]** Two papers (one first-authored) accepted by ISBI 2025.
 * **[Nov. 2024]** Passed my area exam. I am now a Ph.D. candidate.
