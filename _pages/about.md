@@ -15,7 +15,7 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
-* **[Oct. 2025]** One first-authored paper (oral) accepted by SPIE Medical Imaging 2026.
+* **[Nov. 2025]** One first-authored paper (oral) accepted by SPIE Medical Imaging 2026.
 * **[Oct. 2025]** One paper accepted at IEEE TMI.
 * **[July 2025]** One first-authored abstract and four co-authored abstracts accepted by IEEE Medical Imaging Conference (MIC) 2025.
 * **[June 2025]** Started my summer internship at Siemens Medical Solutions (Malvern, PA) as an Image Analytics Intern.
