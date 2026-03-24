@@ -15,6 +15,7 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
+* **[Mar. 2026]** Three first-authored abstracts and one co-authored abstract accepted by Neuroreceptor Mapping 2026.
 * **[Nov. 2025]** One first-authored paper (oral) accepted by SPIE Medical Imaging 2026.
 * **[Oct. 2025]** One paper accepted at IEEE TMI.
 * **[July 2025]** One first-authored abstract and four co-authored abstracts accepted by IEEE Medical Imaging Conference (MIC) 2025.
