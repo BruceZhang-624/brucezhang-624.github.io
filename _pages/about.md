@@ -15,9 +15,10 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
-* **[Mar. 2026]** Three first-authored abstracts and one co-authored abstract accepted by Neuroreceptor Mapping 2026.
+* **[May 2026]** One paper accepted in EJNMMI Physics and one in IEEE TRPMS.
+* **[Mar. 2026]** Three first-authored abstracts and one co-authored abstract accepted by Neuroreceptor Mapping (NRM) 2026.
 * **[Nov. 2025]** One first-authored paper (oral) accepted by SPIE Medical Imaging 2026.
-* **[Oct. 2025]** One paper accepted at IEEE TMI.
+* **[Oct. 2025]** One paper accepted in IEEE TMI.
 * **[July 2025]** One first-authored abstract and four co-authored abstracts accepted by IEEE Medical Imaging Conference (MIC) 2025.
 * **[June 2025]** Started my summer internship at Siemens Medical Solutions (Malvern, PA) as an Image Analytics Intern.
 * **[Apr. 2025]** One first-authored abstract (oral) and two co-authored abstracts accepted by SNMMI Annual Meeting 2025.
