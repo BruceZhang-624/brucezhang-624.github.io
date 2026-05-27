@@ -15,6 +15,7 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
+* **[June 2026]** One first-authored paper accepted in IEEE TRPMS.
 * **[May 2026]** One paper accepted in EJNMMI Physics and one in IEEE TRPMS.
 * **[Mar. 2026]** Three first-authored abstracts and one co-authored abstract accepted by Neuroreceptor Mapping (NRM) 2026.
 * **[Nov. 2025]** One first-authored paper (oral) accepted by SPIE Medical Imaging 2026.
