@@ -15,6 +15,8 @@ Please contact me at **jiazhen.zhang [at] yale.edu**.
 
 Recent Happenings
 ------
+* **[Aug. 2025]** One paper accepted by MLCN 2026.
+* **[July 2025]** One first-authored abstract (lightning talk) accepted by IEEE Medical Imaging Conference (MIC) 2026.
 * **[June 2026]** One first-authored paper accepted in IEEE TRPMS.
 * **[May 2026]** One paper accepted in EJNMMI Physics and one in IEEE TRPMS.
 * **[Mar. 2026]** Three first-authored abstracts and one co-authored abstract accepted by Neuroreceptor Mapping (NRM) 2026.
