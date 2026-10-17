@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in Biomedical Engineering at Yale University, where I am fortunately co-advised by Prof. [Richard E. Carson](https://medicine.yale.edu/profile/richard-carson/) at [Yale PET Center](https://medicine.yale.edu/pet/) and Prof. [John A. Onofrey](https://medicine.yale.edu/profile/john-onofrey/) at [IPAG](https://medicine.yale.edu/bioimaging/ipa/). 
+I am a fifth-year Ph.D. student in Biomedical Engineering at Yale University, where I am fortunately co-advised by Prof. [Richard E. Carson](https://medicine.yale.edu/profile/richard-carson/) at [Yale PET Center](https://medicine.yale.edu/pet/) and Prof. [John A. Onofrey](https://medicine.yale.edu/profile/john-onofrey/) at [IPAG](https://medicine.yale.edu/bioimaging/ipa/). 
 My current research focuses on medical image analysis, deep learning, and PET imaging.
 Please contact me at **jiazhen.zhang [at] yale.edu**.
 
